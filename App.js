@@ -11,7 +11,7 @@ export default function App() {
       </View>
   );
 }
-
+// push
 const styles = StyleSheet.create({
   container: {
     flex: 1,
