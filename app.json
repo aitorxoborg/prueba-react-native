@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6e5a9519-49c5-457f-bb0a-d9d0ce8c226f"
+      }
+    },
+    "owner": "aitor027",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/6e5a9519-49c5-457f-bb0a-d9d0ce8c226f"
     }
   }
 }
